@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Deployment
 The verison deployed does not make use of any backend.
-[https://github-finder-eltragon.vercel.app/]https://github-finder-eltragon.vercel.app/)
+[https://github-finder-eltragon.vercel.app/](https://github-finder-eltragon.vercel.app/)
 
 ## Installation
 Just copy the following commands.
