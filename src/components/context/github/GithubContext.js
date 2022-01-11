@@ -4,8 +4,7 @@ import githubReducer from "./GithubReducer";
 
 const GithubContext = createContext()
 
-const GITHUB_URL = 'https://api.github.com'
-const GITHUB_TOKEN = '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'
+// new tokens
 
 export const GithubProvider = ({ children }) => {
     // const [users, setUsers] = useState([])
